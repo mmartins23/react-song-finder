@@ -30,7 +30,7 @@ This is a React-based web application that allows you to search for songs and th
 1. Clone the repository:
 
 ```js
-git clone https://github.com/your-username/song-finder.git
+git clone https://github.com/mmartins23/react-song-finder
 ```
 
 2. Change into the project directory:
