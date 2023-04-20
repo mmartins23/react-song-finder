@@ -2,6 +2,9 @@
 
 This is a React-based web application that allows you to search for songs and their corresponding artist information using the iTunes API. 
 
+[Launch Live Preview](https://celadon-queijadas-c8cba0.netlify.app/)
+
+
 ## Table of Contents
 
 - [Features](#features)
